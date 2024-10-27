@@ -1,7 +1,34 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. clean
+
+2. all
+
+3. cc = gcc
+
+4. c99
+
+5. 使用$(FOO)
+
+6. 苹果公司的macOS 和 iOS 操作系统的核心部分
+
+7. 取决于具体的Makefile
+
+1.Which target is part of a rule that deletes all the compiled programs?
+哪个目标是删除所有已编译程序的规则的一部分？
+
+2.Which target is part of a rule that makes all the compiled programs?
+哪个目标是生成所有已编译程序的规则的一部分？
+
+3.Which compiler is currently being used?
+目前使用的是哪个编译器？
+
+4.What C standard are we currently using?
+我们目前使用什么C标准？
+
+5.How would we reference a variable “FOO” in a makefile?
+我们如何在 makefile 中引用变量“FOO”？
+
+6.What operating system does the term “Darwin” represent?
+“达尔文”一词代表什么操作系统？
+
+7.What line creates the lfsr program from its object files? (Give its line number.)
+哪一行从目标文件创建 lfsr 程序？
