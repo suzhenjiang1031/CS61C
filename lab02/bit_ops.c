@@ -20,7 +20,7 @@ void set_bit(unsigned * x,
     if (1 == v) {
 	    *x |= (1u << n);
     } else {
-	    *x &= (1u << n);		
+	    *x &= ~(1u << n);		
     }
 }
 // Flip the nth bit of the value of x.
